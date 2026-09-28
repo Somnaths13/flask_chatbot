@@ -1,0 +1,9 @@
+# Environment variables (API Keys)
+.env
+
+# Virtual environment folder
+chatbot/
+
+# Python compiled files
+__pycache__/
+*.pyc
