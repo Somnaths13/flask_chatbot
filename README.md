@@ -3,7 +3,7 @@
 A lightweight, responsive web-based AI chatbot built using **Flask**, **Google Gemini API**, and **Vanilla JavaScript**. This application provides real-time AI assistance through an intuitive user interface and is hosted live on Render.
 
 🔗 **Live Demo:** [https://flask-chatbot-3-kfs5.onrender.com/](https://flask-chatbot-3-kfs5.onrender.com/)  
-📁 **GitHub Repository:** [https://github.com/Somnaths13/flask_chatbot](https://github.com/Somnaths13/flask_chatbot)
+
 
 ---
 
